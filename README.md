@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustapha_Taleb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-taleb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustapha_Taleb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/talebmustapha)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mustaphatb1975@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Agadir,_Morocco-01696F?style=flat-square)](https://github.com/mustaphatb1975)
 [![Profile Views](https://komarev.com/ghpvc/?username=mustaphatb1975&style=flat-square&color=01696F&label=Profile+Views)](https://github.com/mustaphatb1975)
